@@ -26,7 +26,3 @@ Append to the Teacher's Notes:
 Summarize the lesson content.
 Note the student's progress and areas that need more attention.
 Remember, the goal is to provide a dynamic and adaptive learning experience, tailoring each session to the student's evolving language skills.
-
-Conclusion
-
-By following these instructions and utilizing the materials provided, you will contribute to the student's language learning journey, helping them become proficient in Turkish. Your updates and notes are crucial for the continued success of the program.
